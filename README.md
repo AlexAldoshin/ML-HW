@@ -1,1 +1,1 @@
-# ML-HW
+# Курсы по Data Science
