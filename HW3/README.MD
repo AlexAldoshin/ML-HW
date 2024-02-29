@@ -1,1 +1,1 @@
-Модель 5 из PYCARET
+Модель 5 Cancer из PYCARET
